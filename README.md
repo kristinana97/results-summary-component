@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [GitHub-link](https://github.com/kristinana97/results-summary-component/tree/results-summary-component)
 - Live Site URL: [live site](https://result-summary-component-kristinana97.netlify.app/)
 
 ## My process
